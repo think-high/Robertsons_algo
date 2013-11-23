@@ -1,0 +1,3 @@
+This is an implementation of the robertson's algorithm for multiplication of two 8 bits no.
+
+The program shows the table for each step of robertson's algorithm showing the value of the accumulator and the register at each step.
